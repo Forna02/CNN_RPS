@@ -1,4 +1,4 @@
-# Repository for the project CNN_RPS for the course of Statistical Methods for Machine Learning:
+# Repository for the project CNN_RPS for the course Statistical Methods for Machine Learning:
 This repository contain the following files:
 * image_pre_processing.ipynb: this notebook contain the code that was used for analyzing and processing the dataset
 * primo_modello.ipynb, secondo_modello.ipynb, terzo_modello.ipynb: this notebooks contain the code for the definition, training and evaluation of the models used in the project
