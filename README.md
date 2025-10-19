@@ -4,3 +4,5 @@ This repository contain the following files:
 * primo_modello.ipynb, secondo_modello.ipynb, terzo_modello.ipynb: this notebooks contain the code for the definition, training and evaluation of the models used in the project
 * tools.py: this file contains some function that were used by all the model files for creting the generators, visualizing the training history and evaluate the models.
 * report.pdf: this file contain the report for the project
+* For the image_pre_processing file, the path variable should be set to the directory that contains the scissors, rock, and paper folders from the original Kaggle dataset.
+* For the model files, wherever /home/ocelot/Desktop/CNN_RPS/Archive/x appears, replace it with the path to the x_split folder of your processed dataset.
