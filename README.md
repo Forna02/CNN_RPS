@@ -6,3 +6,4 @@ This repository contain the following files:
 * report.pdf: this file contain the report for the project
 * For the image_pre_processing file, the path variable should be set to the directory that contains the scissors, rock, and paper folders from the original Kaggle dataset.
 * For the model files, wherever /home/ocelot/Desktop/CNN_RPS/Archive/x appears, replace it with the path to the x_split folder of your processed dataset.
+* After executing the image_pre_processing file in the directory corrisponding to the path variable you’ll find the three splits (train, test, and val). Inside each split, there are folders named paper_clahe, scissors_clahe, and rock_clahe. If you want the model’s reports or logs to show the class names as only “rock”, “paper”, and “scissors”, you should rename these folders accordingly.
